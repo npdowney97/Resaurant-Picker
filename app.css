@@ -1,0 +1,11 @@
+.restaurantItem{
+    border: solid black 1px;
+    height: 50px;
+    width: 150px;
+    margin: 5px;
+}
+
+body{
+    /* display: flex;
+    align-content: center; */
+}
